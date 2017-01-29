@@ -1,0 +1,16 @@
+{
+    "require": {
+    "smarty/smarty": "~3.1"
+    },
+    "autoload": {
+        "files": [
+            ["config.php"]
+        ],
+        "classmap": [
+            "controllers/",
+            "classes/",
+            "models/"
+        ]
+    }
+}
+
